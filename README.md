@@ -53,4 +53,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to modif
 
 ## Acknowledgments
 
-Special thanks to the developers and contributors of Langchain, Serpa API, OpenAI, and other libraries and tools used in this project for their invaluable support and contributions.
+Special thanks to the developers and contributors of Langchain, Serpa API, OpenAI, and other libraries and tools.
