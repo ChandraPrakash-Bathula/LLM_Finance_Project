@@ -1,4 +1,4 @@
-# Finance Project with LLM, Langchain, Serpa API, and OpenAI
+# A Finance Project with LLM, Langchain, Serpa API, and OpenAI
 
 This repository contains a Finance Project that leverages various tools and APIs, including LLM (Language Learning Model) from Langchain, Serpa API, OpenAI, vector embeddings, text splitters, and sequential chaining. The project aims to extract relevant information from different websites, identify specific parts of the text related to finance, and retrieve the sources for further analysis.
 
